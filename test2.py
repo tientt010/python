@@ -1,1 +1,0 @@
-print("tiến đẹp trai")
