@@ -22,6 +22,6 @@ print(s.isalnum())                  # False
 print("tien".isalpha())             # True
 # phương thức isnumeric() trả về true nếu xâu chỉ chứa các kí tự là số
 print("0987675072".isnumeric())
-#test
+
 
 
